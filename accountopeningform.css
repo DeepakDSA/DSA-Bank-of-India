@@ -1,0 +1,11 @@
+
+label{
+        text-align: right;
+        clear: both;
+        float:left;
+        margin-right:10px;
+    }
+.form{
+    margin-left: 38%;
+    justify-content: center;
+}

@@ -1,0 +1,78 @@
+#head{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    display: flex;
+    gap: 60px;
+    flex-direction: row;
+    background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);}
+.leftbox{
+    display: inline;
+    font-size: 25px;
+    position:relative;
+    gap: 10px;
+    top: 100px;
+    left: 40px;
+    
+}
+#a{
+    gap: 10px;
+    text-decoration: none;
+    color:darkcyan;
+
+}
+#edu{
+    display: flex;
+    font-size: 20px;
+    gap: 100px;
+    left: 700px;
+    }
+.edu1{
+    gap: 100px;
+    border-radius: 10px;
+    transition: all 0.6s 0s;
+    box-shadow: 3px 3px 15px orangered;
+}
+#edu img:hover{
+    transform: scale(1.02);
+}
+.bankdetails1{
+    width: 500px;
+}
+#body{
+    background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+#services{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.bankdetails{
+    display: flex;
+    gap: 60px;
+}
+#image1{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+#details{
+    display: flex;
+    gap: 72px;
+    position: absolute;
+    bottom: 80px;
+}
+#details1{
+    color:maroon;
+    text-decoration: none;
+}
+#pic{
+    border-radius: 10px;
+    transition: all 0.6s 0s;
+    box-shadow: 3px 3px 15px black;
+}
+#image1 img:hover{
+    transform: scale(1.1);
+}
+.phpwork{
+    display: flex;
+    
+}

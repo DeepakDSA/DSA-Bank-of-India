@@ -24,6 +24,5 @@ Database: MySQL
 
 Outcome:
 The project simulates a mini-banking system that demonstrates full-stack development skills with emphasis on database handling, server-side scripting, and frontend design.
-![Uploading Screenshot 2025-09-19 at 10.43.14 am.png…]()
 <img width="2560" height="1600" alt="Screenshot 2025-09-19 at 10 44 10 am" src="https://github.com/user-attachments/assets/9f0ada66-b654-4fac-abe8-49d91d6b3c16" />
 
